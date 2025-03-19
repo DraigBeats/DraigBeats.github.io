@@ -30,7 +30,7 @@ bigimg:
 
 **A family friendly, day long festival, to build bridges between the University and local Communities and to help Dr Sophie.**
 
-Draig Beats will return on Saturday the **8th of June 2024** to Treborth Botanic Garden!
+Draig Beats will return on Saturday the **7th of June 2025** to Treborth Botanic Garden!
 
 It is a family friendly, fund raising event, and will contribute to building bridges between the University and local communities. There will be on offer plenty of live music, talks, workshops, food & drink plus, showcasing local initiatives and lots of activities to keep the kids busy!
 
@@ -39,14 +39,14 @@ We are unpaid volunteers and are trying to keep ticket prices to a minimum but s
 Please join us for a great day out and help us raise as much money as possible!
 
 
-### [TICKET PRICES](https://draigbeats2024.eventbrite.co.uk/)
+### [TICKET PRICES](https://ticketpass.org/event/EADYOA/draig-beats-festival-2025)
 
 Ticket prices remain unchanged, 5 years on!
 
 |           | **Adult**        | **Child 12-17** | **Family Ticket**|
 |-----------|:----------------:|:---------------:|:----------------:|
-|Advance    | £20              | £10             | £50              |
-|On the day | £25              | £15             | not available    |
+|Advance    | £25              | £12.50          | £60              |
+|On the day | £30              | £15             | not available    |
 
 Family Ticket: 2 adults & 2 children aged 12 -17
 No Concessions
