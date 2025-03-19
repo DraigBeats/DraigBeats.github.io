@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Draig Beats 2024
+title: Draig Beats 2025
 subtitle: 
 use-site-title: true
 bigimg:
+ - "/img/DRAIG_BEATS_Banna_25.png" : ""
  - "/img/20180601_181252.JPG" : ""
  - "/img/20180601_181330.JPG" : ""
  - "/img/20180601_181338.JPG" : ""
