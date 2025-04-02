@@ -26,7 +26,6 @@ bigimg:
 ---
 
 [TICKETS!]([https://ticketpass.org/event/EADYOA/draig-beats-festival-2025])<p>
-https://ticketpass.org/event/EADYOA/draig-beats-festival-2025
 
 
 **A family friendly, day long festival, to build bridges between the University and local Communities and to help Dr Sophie.**
