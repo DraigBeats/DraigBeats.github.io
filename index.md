@@ -25,7 +25,7 @@ bigimg:
  - "/img/20190607_141313.JPG" : ""
 ---
 
-[TICKETS!]([https://ticketpass.org/event/EADYOA/draig-beats-festival-2025])
+[TICKETS!]([https://ticketpass.org/event/EADYOA/draig-beats-festival-2025])<p>
 https://ticketpass.org/event/EADYOA/draig-beats-festival-2025
 
 
