@@ -27,6 +27,15 @@ bigimg:
 
 [TICKETS!](https://ticketpass.org/event/EADYOA/draig-beats-festival-2025)
 
+<div id="container" style="height: 500px"></div>
+<script type="text/javascript" src="https://d372xb63ug5ji6.cloudfront.net/widget/widget.js"></script>
+<script type="text/javascript">
+    TPWidget.create({
+        'event': '869814917',
+        'elementId': 'container',
+        'mode': 'display'
+    })
+</script>
 
 **A family friendly, day long festival, to build bridges between the University and local Communities and to help Dr Sophie.**
 
