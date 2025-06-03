@@ -28,8 +28,14 @@ bigimg:
 [TICKETS!](https://ticketpass.org/event/EADYOA/draig-beats-festival-2025)
 
 
+![The site map](img/DRAIG_BEATS_A3_25_v2.jpg)
 
+<p>
 **A family friendly, day long festival, to build bridges between the University and local Communities and to help Dr Sophie.**
+</p>
+
+
+
 
 Draig Beats will return on Saturday the **7th of June 2025** to Treborth Botanic Garden!
 
