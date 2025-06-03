@@ -11,12 +11,13 @@ bigimg:
 
 ## The Site Map
 
-![The site map](/img/Draig%20Beats%202022%20Site%20Map.jpg)
+![The site map](/img/Draig_Beats_Map_2025.pdf)
 
 ## How to get there?
 
 As access to the Garden is limited we're asking people to come by public transport if possible. Take bus numbers X4, 4A, 57 and 62 run from Bangor Rail Station and Bangor Bus Station to the Antelope Pub. We will also be operating a free park and ride scheme from Normal Site and bus pick up from Bangor Uinversity Brambell Building (NO PARKING!) in walking distance from the train station. Access by car will be limited to Blue Badge holders only, please let us know in advance and we will be able to accommodate you on site.
 
+![Bus Routes](/img/Busandparkingmap_DB25.jpg)
 
 ## Please read carefully!
 
