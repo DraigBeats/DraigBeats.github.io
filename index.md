@@ -7,6 +7,18 @@ bigimg:
 
 ---
 
+
+**THANK YOU!!**
+
+
+![Team 2025 - Day 3](/img/DSC03824-min.JPG)
+
+
+**We Will be back 5th and 6th of June 2026**
+
+**Psssssst....!**
+
+
 [TICKETS!](https://ticketpass.org/event/EADYOA/draig-beats-festival-2025)
 
 
